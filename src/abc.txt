@@ -1,0 +1,38 @@
+smalla v 21
+largea J 9
+smalla r 17
+smalla w 22
+smalla p 15
+largea W 22
+smalla t 19
+smalla w 22
+largea J 9
+smalla g 6
+largea W 22
+smalla r 17
+small h 8
+small c 3
+small s 19
+large F 32
+large M 39
+large M 39
+small f 6
+large F 32
+large F 32
+small h 8
+large F 32
+small p 16
+3
+6
+7
+8
+18
+19
+20
+22
+23
+32
+36
+39
+49
+282
